@@ -1,7 +1,7 @@
 # Rulith Community
 
 Questions, ideas and show-and-tell for everything Rulith makes. Join the conversation in
-[Discussions](https://github.com/orgs/rulith-dev/discussions).
+[Discussions](https://github.com/rulith-dev/community/discussions).
 
 ## Products
 
@@ -15,7 +15,7 @@ Questions, ideas and show-and-tell for everything Rulith makes. Join the convers
 
 ## Where to post
 
-- **Questions, help, ideas, things you built:** [Discussions](https://github.com/orgs/rulith-dev/discussions).
+- **Questions, help, ideas, things you built:** [Discussions](https://github.com/rulith-dev/community/discussions).
 - **Bugs:** the issue tracker of the product's own repository.
 - **Security issues:** please do not post them publicly. Email contact@rulith.com instead.
 
